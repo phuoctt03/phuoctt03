@@ -5,9 +5,9 @@ I am a full-stack developer passionate about building powerful, clean, and optim
 Currently, I am working on personal projects using Vue and Symfony, alongside other technologies like NestJS and TypeORM.
 
 ## 🚀 My Skills
-- **Frontend**: Vue.js, Nuxt.js, HTML, CSS, JavaScript
-- **Backend**: Symfony, NestJS, Node.js, PHP, TypeORM
-- **Database**: MySQL, PostgreSQL
+- **Frontend**: Vue.js, React.js, HTML, CSS, JavaScript
+- **Backend**: Symfony, NestJS, Node.js, PHP, TypeORM, MikroORM, Prisma
+- **Database**: MySQL, PostgreSQL, MongoDB
 - **Tools**: Git, Docker, VS Code
 
 ## 🛠️ Highlighted Projects
@@ -18,7 +18,7 @@ Currently, I am working on personal projects using Vue and Symfony, alongside ot
 
 2. **[Fringe Services API](#)**  
    _An API for optimizing costs when purchasing fringe services._  
-   - **Tech stack**: NestJS, TypeORM, Docker  
+   - **Tech stack**: NestJS, TypeORM, MikroORM, Prisma, Docker  
    - **GitHub**: [Repository](#)
 
 ## 🌱 What I'm Learning
