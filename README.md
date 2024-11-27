@@ -14,8 +14,8 @@ Currently, I am working on personal projects using Vue and Symfony, alongside ot
 1. **[Video Management System](#)**  
    _An application for managing video._  
    - **Tech stack**: NestJS (Backend), React.js (Frontend)  
-   - **GitHub**: [FE](#phuoctt03/ReactJs)
-   - **GitHub**: [BE](#phuoctt03/NestJs)
+   - **GitHub**: [Repository FE](/ReactJs)
+   - **GitHub**: [Repository BE](/NestJs)
 
 
 ## 🌱 What I'm Learning
@@ -23,9 +23,9 @@ Currently, I am working on personal projects using Vue and Symfony, alongside ot
 - Test-Driven Development (TDD)
 
 ## 📫 Connect With Me
-- Email: trongphuoc@example.com
+- Email: phuoctt@gmail.com
 - LinkedIn: [TrongPhuoc](#)
-- GitHub: [TrongPhuoc](https://github.com/trongphuoc)
+- GitHub: [TrongPhuoc](https://github.com/phuoctt03)
 
 ---
 
