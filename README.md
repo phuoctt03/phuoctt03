@@ -11,15 +11,12 @@ Currently, I am working on personal projects using Vue and Symfony, alongside ot
 - **Tools**: Git, Docker, VS Code
 
 ## 🛠️ Highlighted Projects
-1. **[Library Management System](#)**  
-   _An application for managing books, readers, and borrowing activities._  
-   - **Tech stack**: Symfony (Backend), Vue.js (Frontend)  
-   - **GitHub**: [Repository](#)
+1. **[Video Management System](#)**  
+   _An application for managing video._  
+   - **Tech stack**: NestJS (Backend), React.js (Frontend)  
+   - **GitHub**: [FE](#phuoctt03/ReactJs)
+   - **GitHub**: [BE](#phuoctt03/NestJs)
 
-2. **[Fringe Services API](#)**  
-   _An API for optimizing costs when purchasing fringe services._  
-   - **Tech stack**: NestJS, TypeORM, MikroORM, Prisma, Docker  
-   - **GitHub**: [Repository](#)
 
 ## 🌱 What I'm Learning
 - GraphQL
